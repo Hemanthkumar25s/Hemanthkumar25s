@@ -13,8 +13,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman SVG
+      - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Hemanthkumar25s
-          output_dir: dist
+          commit_message: "Generate Pacman graph"
+
+      - name: Commit files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update Pacman graph" || echo "No changes"
+          git push
