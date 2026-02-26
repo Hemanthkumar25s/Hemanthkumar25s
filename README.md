@@ -59,7 +59,7 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
 ## 👾 Pac-Man Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hemanthkumar25s/Hemanthkumar25s/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Hemanthkumar25s/Hemanthkumar25s/main/dist/pacman-contribution-graph.svg" />
 </p>
 
 ---
