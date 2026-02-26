@@ -56,10 +56,10 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
 
 ---
 
-## 🧊 3D Contribution Graph
+## 👾 Pac-Man Contribution Game
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Hemanthkumar25s" />
+  <img src="https://raw.githubusercontent.com/Hemanthkumar25s/Hemanthkumar25s/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
