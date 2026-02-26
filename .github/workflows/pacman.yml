@@ -1,13 +1,14 @@
 name: Generate Pacman
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
@@ -15,11 +16,4 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Hemanthkumar25s
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Generate Pacman"
