@@ -1,6 +1,8 @@
 name: Generate Pacman
 
 on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at 12:00 AM UTC
   workflow_dispatch:
 
 permissions:
