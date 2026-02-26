@@ -48,10 +48,10 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
 
 ---
 
-## 👾 Pac-Man Contribution Game
+## 🌌 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hemanthkumar25s/Hemanthkumar25s/output/pacman-contribution-graph.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthkumar25s&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -69,8 +69,7 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
 🚀 AI Based Mock Interview Platform  
 🚀 Mini Social Media Platform  
 🚀 Android Business Card App  
-🚀 Dice Roller Android App  
-
+🚀 Dice Roller Android App    
 ---
 
 ## 🔗 Connect With Me
@@ -83,6 +82,11 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+---
+
+## 💬 Tagline
+Building practical tech solutions with clean code and modern tools 🚀
 
 ---
 
