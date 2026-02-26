@@ -15,8 +15,8 @@
 🎓 B.E in Information Science and Engineering  
 🏫 JSS Academy of Technical Education  
 👨‍🎓 Student  
-💡 Passionate about building practical and scalable applications  
 🌱 Currently learning Kotlin & Android Studio  
+💡 Passionate about building scalable real-world applications  
 
 ---
 
@@ -44,8 +44,14 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
   <img src="https://github-readme-stats.vercel.app/api?username=Hemanthkumar25s&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthkumar25s&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthkumar25s&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 👾 Pac-Man Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hemanthkumar25s/Hemanthkumar25s/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
@@ -58,26 +64,12 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
 
 ---
 
-## 🐍 3D Contribution Snake (Dark Theme)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hemanthkumar25s/Hemanthkumar25s/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🔥 Projects
 
 🚀 AI Based Mock Interview Platform  
-🚀 Mini Social Media Platform (MiniSocial)  
-🚀 MERN Product Management System  
-🚀 AngularJS Mini CRM Dashboard  
-🚀 eCommerce Web Application  
+🚀 Mini Social Media Platform  
 🚀 Android Business Card App  
 🚀 Dice Roller Android App  
-🚀 Java Practice Projects  
-🚀 To-Do Application  
-🚀 College Information Website  
 
 ---
 
@@ -91,11 +83,6 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
-
-## 💬 Tagline
-Building practical tech solutions with clean code and modern tools 🚀
 
 ---
 
