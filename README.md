@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Android+Learner;Building+Practical+Tech+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hemanthkumar25s&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 ---
 ## 🚀 About Me
 
