@@ -77,7 +77,7 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
   <a href="https://www.linkedin.com/in/hemanthkumars25">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:hemanthkumars3125@gmail.com">
+  <a href="mailto:hemanthkumar.s3125@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
