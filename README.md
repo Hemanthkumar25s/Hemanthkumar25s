@@ -62,13 +62,12 @@ Power BI • Tableau • CodeBlocks • Google AI Studio
 </p>
 
 ---
-
 ## 🔥 Projects
 
-🚀 Grama-Yatri Android Application 
-🚀 Sante Price Index Android Application 
-🚀 AI Based Mock Interview Platform  
-🚀 Mini Social Media platform  
+- 🚀 Grama-Yatri Android Application  
+- 🚀 Sante Price Index Android Application  
+- 🚀 AI Based Mock Interview Platform  
+- 🚀 Mini Social Media Platform 
 ---
 
 ## 🔗 Connect With Me
